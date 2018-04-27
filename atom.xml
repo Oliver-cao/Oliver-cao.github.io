@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-26T12:37:02.101Z</updated>
+  <updated>2018-04-27T03:17:25.770Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,39 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello  cao</title>
-    <link href="http://yoursite.com/2018/04/26/hello-cao/"/>
-    <id>http://yoursite.com/2018/04/26/hello-cao/</id>
-    <published>2018-04-26T12:37:02.000Z</published>
-    <updated>2018-04-26T12:37:02.101Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hello world</title>
-    <link href="http://yoursite.com/2018/04/26/hello-world-1/"/>
-    <id>http://yoursite.com/2018/04/26/hello-world-1/</id>
-    <published>2018-04-26T11:48:57.000Z</published>
-    <updated>2018-04-26T11:48:57.208Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/04/26/hello-world/"/>
-    <id>http://yoursite.com/2018/04/26/hello-world/</id>
-    <published>2018-04-26T10:59:59.444Z</published>
-    <updated>2018-04-26T10:59:59.444Z</updated>
+    <title>生活的</title>
+    <link href="http://yoursite.com/2018/06/01/tagstest/"/>
+    <id>http://yoursite.com/2018/06/01/tagstest/</id>
+    <published>2018-06-01T15:47:44.000Z</published>
+    <updated>2018-04-27T03:17:25.770Z</updated>
     
     <summary type="html">
     
@@ -57,12 +29,19 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;振文&lt;/p&gt;
+
         
       
     
     </summary>
     
+      <category term="Hexo教程" scheme="http://yoursite.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   
