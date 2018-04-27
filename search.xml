@@ -10,16 +10,16 @@
       
       <categories>
           
-          <category> Hexo教程 </category>
+          <category> 机器学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签1 </tag>
+            <tag> 神经网络 </tag>
             
-            <tag> 标签2 </tag>
+            <tag> 分类函数 </tag>
             
         </tags>
       
@@ -29,13 +29,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      <content type="html"><![CDATA[<p>title: categories</p><p>date: 2018-04-27 09:51:16</p><p>type: “categories”</p>]]></content>
-    </entry>
-    
-    <entry>
       <title>heiehi</title>
       <link href="/tags/index-1.html"/>
       <url>/tags/index-1.html</url>
@@ -43,10 +36,17 @@
     </entry>
     
     <entry>
-      <title></title>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      <content type="html"><![CDATA[<p>type: “tags”</p>]]></content>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
   
