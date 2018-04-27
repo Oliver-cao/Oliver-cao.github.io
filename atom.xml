@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-27T07:29:48.989Z</updated>
+  <updated>2018-04-27T07:38:34.540Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,49 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test3</title>
-    <link href="http://yoursite.com/2018/04/27/test3/"/>
-    <id>http://yoursite.com/2018/04/27/test3/</id>
-    <published>2018-04-27T07:29:48.000Z</published>
-    <updated>2018-04-27T07:29:48.989Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test2</title>
-    <link href="http://yoursite.com/2018/04/27/test2/"/>
-    <id>http://yoursite.com/2018/04/27/test2/</id>
-    <published>2018-04-27T07:29:41.000Z</published>
-    <updated>2018-04-27T07:29:41.125Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>第一篇</title>
     <link href="http://yoursite.com/2018/04/21/tagstest/"/>
     <id>http://yoursite.com/2018/04/21/tagstest/</id>
     <published>2018-04-21T05:47:44.000Z</published>
-    <updated>2018-04-27T07:23:07.110Z</updated>
+    <updated>2018-04-27T07:38:34.540Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;正文啥也不想写，这只是一篇测试博客。&lt;br&gt;还是复制一篇《长恨歌》好了&lt;br&gt;长恨歌&lt;br&gt;【作者】白居易
-        
-      
+      &lt;p&gt;正文啥也不想写，这只是一篇测试博客。&lt;br&gt;还是复制一篇《长恨歌》好了&lt;br&gt;
     
     </summary>
     
