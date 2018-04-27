@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oliver_Note</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-04-26T12:37:02.101Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Oliver Cao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello  cao</title>
+    <link href="http://yoursite.com/2018/04/26/hello-cao/"/>
+    <id>http://yoursite.com/2018/04/26/hello-cao/</id>
+    <published>2018-04-26T12:37:02.000Z</published>
+    <updated>2018-04-26T12:37:02.101Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://yoursite.com/2018/04/26/hello-world-1/"/>
+    <id>http://yoursite.com/2018/04/26/hello-world-1/</id>
+    <published>2018-04-26T11:48:57.000Z</published>
+    <updated>2018-04-26T11:48:57.208Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/04/26/hello-world/"/>
+    <id>http://yoursite.com/2018/04/26/hello-world/</id>
+    <published>2018-04-26T10:59:59.444Z</published>
+    <updated>2018-04-26T10:59:59.444Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
