@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-08T10:16:13.921Z</updated>
+  <updated>2018-05-08T10:19:00.843Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,49 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>机器学习（machine learning）</title>
-    <link href="http://yoursite.com/2018/05/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88machinelearning%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/05/08/机器学习（machinelearning）/</id>
-    <published>2018-05-08T10:15:05.000Z</published>
-    <updated>2018-05-08T10:16:13.921Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;机器学习（machine-learning）概述&quot;&gt;&lt;a href=&quot;#机器学习（machine-learning）概述&quot; class=&quot;headerlink&quot; title=&quot;- 机器学习（machine learning）概述&quot;&gt;&lt;/a&gt;- 机器学习（machine learning）概述&lt;/h2&gt;&lt;p&gt;什么是机器学习？&lt;/p&gt;
-&lt;p&gt;机器学习的主要工作流程是什么？&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="机器学习" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-      <category term="-机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/05/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0(machine%20learning)/"/>
-    <id>http://yoursite.com/2018/05/08/机器学习(machine learning)/</id>
-    <published>2018-05-08T10:00:18.039Z</published>
-    <updated>2018-05-08T10:12:00.534Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;title: 第一篇&lt;br&gt;date: 2018-04-21 13:47:44&lt;br&gt;categories: “机器学习”&lt;br&gt;tags: &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- 神经网络
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;机器学习（machine-learning）概述&quot;&gt;&lt;a href=&quot;#机器学习（machine-learning）概述&quot; class=&quot;headerlink&quot; title=&quot;- 机器学习（machine learning）概述&quot;&gt;&lt;/a&gt;- 机器学习（machine learning）概述&lt;/h2&gt;&lt;p&gt;什么是机器学习？&lt;/p&gt;
-&lt;p&gt;机器学习的主要工作流程是什么？&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/04/27/tagstest/"/>
-    <id>http://yoursite.com/2018/04/27/tagstest/</id>
+    <link href="http://yoursite.com/2018/04/27/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0%E7%AF%87/"/>
+    <id>http://yoursite.com/2018/04/27/机器学习概述篇/</id>
     <published>2018-04-27T03:02:52.549Z</published>
     <updated>2018-05-08T10:19:00.843Z</updated>
     
