@@ -78,7 +78,7 @@
     <script defer type="text/javascript" src="/js/index.js"></script>
     
     <script defer type="text/javascript" src="/js/custom.js"></script>
-    <title>helloworld | Oliver_Note</title>
+    <title>机器学习（machine learning）概述 | Oliver_Note</title>
   </head>
   <body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN"  data-spy="scroll" data-target=".list-group">
     
@@ -135,7 +135,7 @@
     </div>
     <header class="post-header">
       <h1 class="post-title" itemprop="name headline">
-       <span class="">helloworld</span>
+       <span class="">机器学习（machine learning）概述</span>
       </h1>
       <div class="post-meta">
         
@@ -151,13 +151,10 @@
           <i class="far fa-folder-open"></i>
           
           
-          <span itemprop="about" itemscope itemtype="http://schema.org/Thing"> <a href="/categories/hello/" itemprop="url" rel="index"><span itemprop="name">hello</span></a></span>
+          <span itemprop="about" itemscope itemtype="http://schema.org/Thing"> <a href="/categories/机器学习/" itemprop="url" rel="index"><span itemprop="name">机器学习</span></a></span>
           
           
-          <i class="fas fa-angle-right"></i> <span itemprop="about" itemscope itemtype="http://schema.org/Thing"> <a href="/categories/hello/ll/" itemprop="url" rel="index"><span itemprop="name">ll</span></a></span>
-          
-          
-          <i class="fas fa-angle-right"></i> <span itemprop="about" itemscope itemtype="http://schema.org/Thing"> <a href="/categories/hello/ll/ls/" itemprop="url" rel="index"><span itemprop="name">ls</span></a></span>
+          <i class="fas fa-angle-right"></i> <span itemprop="about" itemscope itemtype="http://schema.org/Thing"> <a href="/categories/机器学习/机器学习概述/" itemprop="url" rel="index"><span itemprop="name">机器学习概述</span></a></span>
           
           
         </span>
@@ -175,9 +172,25 @@
       </div>
     </header>
     <main class="post-body" itemprop="articleBody">
-      <p>jello</p>
+      <h2 id="机器学习（machine-learning）概述"><a href="#机器学习（machine-learning）概述" class="headerlink" title="- 机器学习（machine learning）概述"></a>- 机器学习（machine learning）概述</h2><p>什么是机器学习？</p>
+<p>机器学习的主要工作流程是什么？</p>
 <a id="more"></a>
-<p>hello</p>
+<h1 id="机器学习-machine-learning"><a href="#机器学习-machine-learning" class="headerlink" title="机器学习(machine learning)"></a>机器学习(machine learning)</h1><h2 id="what-is-machine-learning？"><a href="#what-is-machine-learning？" class="headerlink" title="what is machine learning？"></a>what is machine learning？</h2><p>​    人工智能在近几年十分火热，在非计算机专业的同学眼里以为机器学习的工作是像美剧西部世界中创造机器人王国</p>
+<p>​    <img src="https://pic1.zhimg.com/80/v2-6d830eca9f800bac135d75e57c524a45_hd.jpg" alt="img"> </p>
+<p>​    或者像钢铁侠的AI管家 Jarvis 那样可以管理日常生活，自主操控机甲进行战斗的人工智能管理系统。</p>
+<p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1525781452448&amp;di=1c6ed847cfbbc2e5f35438174e00848e&amp;imgtype=0&amp;src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fd058ccbf6c81800abcadb8b3b33533fa838b47c6.jpg" alt="img"> </p>
+<p>虽然这些层次的人工智能还没实现，但是随着硬件与算法的发展。机器学习已经逐渐应用在现代生活的各个角落，如：语音助手，目标检测，自然语言处理等。如果从专业的角度来看，到底什么是机器学习呢？</p>
+<p>机器学习：顾名思义，就是让机器进行学习，即让计算机可以达到学习某种技能的效果。在传统计算机技术中，计算机只需要让程序员输入的一段指令，让后让执行每一行指令即可。即便在图形界面下，也需要人为地点击图标，运行程序，计算结果。但是在机器学习中则不然，对计算机输入的不再是指令而是数据，让计算机通过大量的数据，这听起来不可思议，其实是可以行的通的 。看下图：</p>
+<p><img src="http://images.cnitblog.com/blog/673793/201412/221227224214301.png" alt="img"> </p>
+<p>我们通过大量的数据（data）输入，对某个模型（model）进行训练得到一个相对确定的映射模型，再输入新的数据集进行预测（prediction ）得到预测结果。这样看来，机器学习的步骤是不是和人类进行学习的步骤十分类似。</p>
+<p>通过上述流程，我们应该可以大体明白机器学习的主要流程，但是在机器学习算法中的实际设计中，涉及到了大量数学，统计学，概率论，线性代数，矩阵理论的知识。这也是要真正实现机器学习的基础。</p>
+<h2 id="How-does-machine-learning-work？"><a href="#How-does-machine-learning-work？" class="headerlink" title="How does machine learning work？"></a>How does machine learning work？</h2><p>①选择数据：将你的数据分成三组：训练数据、验证数据和测试数据</p>
+<p>②模型数据：使用训练数据来构建使用相关特征的模型</p>
+<p>③验证模型：使用你的验证数据接入你的模型</p>
+<p>④测试模型：使用你的测试数据检查被验证的模型的表现</p>
+<p>⑤使用模型：使用完全训练好的模型在新数据上做预测</p>
+<p>⑥调优模型：使用更多数据、不同的特征或调整过的参数来提升算法的性能表现</p>
+<p>在上述的步骤中，每一步都涉及多种多样的算法。接下来开始深入探究机器学习。</p>
 
     </main>
     <footer class="post-footer">
@@ -190,15 +203,7 @@
         
         
         
-        <a class="post-tag button" href="/tags/hello/" style="background: #fc6423" rel="tag"><i class="fas fa-tags"></i> hello</a>
-        
-        
-        
-        <a class="post-tag button" href="/tags/kk/" style="background: #a3bb54" rel="tag"><i class="fas fa-tags"></i> kk</a>
-        
-        
-        
-        <a class="post-tag button" href="/tags/ll/" style="background: #47aaff" rel="tag"><i class="fas fa-tags"></i> ll</a>
+        <a class="post-tag button" href="/tags/机器学习/" style="background: #fc6423" rel="tag"><i class="fas fa-tags"></i> 机器学习</a>
         
         
       </div>
@@ -229,18 +234,6 @@
 
 
   
-  
-  <div class="post-nav">
-    
-    <div class="post-nav-next post-nav-item">
-      <a href="/2018/04/27/机器学习概述篇/" rel="next" title="">
-        <i class="fas fa-angle-left"></i>
-        <span class="nav-title"></span>
-      </a>
-    </div>
-    
-    
-  </div>
   
   
   
@@ -302,7 +295,7 @@
     
     <div class="archives-count">
       <p>Archives</p>
-      <p><a href="/archives/">2</a></p>
+      <p><a href="/archives/">1</a></p>
     </div>
     
     
@@ -311,7 +304,7 @@
     
     <div class="categories-count">
       <p>Categories</p>
-      <p><a href="/categories/">3</a></p>
+      <p><a href="/categories/">5</a></p>
     </div>
     
     
@@ -320,7 +313,7 @@
     
     <div class="tags-count">
       <p>Tags</p>
-      <p><a href="/tags/">3</a></p>
+      <p><a href="/tags/">4</a></p>
     </div>
     
   </div>
@@ -338,6 +331,12 @@
 
 
 
+
+<hr>
+<div class="post-toc sidebar-item" id="toc-div">
+  <p><i class="fas fa-list-ol"></i> Table of Contents</p>
+  <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#机器学习（machine-learning）概述"><span class="toc-text">- 机器学习（machine learning）概述</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#机器学习-machine-learning"><span class="toc-text">机器学习(machine learning)</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#what-is-machine-learning？"><span class="toc-text">what is machine learning？</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#How-does-machine-learning-work？"><span class="toc-text">How does machine learning work？</span></a></li></ol></div>
+</div>
 
 
 
