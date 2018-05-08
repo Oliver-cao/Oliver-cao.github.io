@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-08T10:02:56.940Z</updated>
+  <updated>2018-05-08T10:12:00.534Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,13 @@
     <link href="http://yoursite.com/2018/05/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0(machine%20learning)/"/>
     <id>http://yoursite.com/2018/05/08/机器学习(machine learning)/</id>
     <published>2018-05-08T10:00:18.039Z</published>
-    <updated>2018-05-08T10:02:56.940Z</updated>
+    <updated>2018-05-08T10:12:00.534Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;title: 机器学习（machine learning）概述&lt;br&gt;date: 2018-05-8 18:01:44&lt;br&gt;categories: “机器学习”&lt;br&gt;tags: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;机器学习&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;机器学习（machine-learning）概述&quot;&gt;&lt;a href=&quot;#机器学习（machine-learning）概述&quot; class=&quot;headerlink&quot; title=&quot;- 机器学习（machine learning）概述&quot;&gt;&lt;/a&gt;- 机器学习（machine learning）概述&lt;/h2&gt;&lt;p&gt;什么是机器学习？&lt;/p&gt;
+      &lt;p&gt;title: 第一篇&lt;br&gt;date: 2018-04-21 13:47:44&lt;br&gt;categories: “机器学习”&lt;br&gt;tags: &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 神经网络
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;机器学习（machine-learning）概述&quot;&gt;&lt;a href=&quot;#机器学习（machine-learning）概述&quot; class=&quot;headerlink&quot; title=&quot;- 机器学习（machine learning）概述&quot;&gt;&lt;/a&gt;- 机器学习（machine learning）概述&lt;/h2&gt;&lt;p&gt;什么是机器学习？&lt;/p&gt;
 &lt;p&gt;机器学习的主要工作流程是什么？&lt;/p&gt;
     
     </summary>
