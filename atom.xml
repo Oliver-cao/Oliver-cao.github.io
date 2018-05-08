@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-08T10:12:00.534Z</updated>
+  <updated>2018-05-08T10:16:13.921Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>机器学习（machine learning）</title>
+    <link href="http://yoursite.com/2018/05/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88machinelearning%EF%BC%89/"/>
+    <id>http://yoursite.com/2018/05/08/机器学习（machinelearning）/</id>
+    <published>2018-05-08T10:15:05.000Z</published>
+    <updated>2018-05-08T10:16:13.921Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;机器学习（machine-learning）概述&quot;&gt;&lt;a href=&quot;#机器学习（machine-learning）概述&quot; class=&quot;headerlink&quot; title=&quot;- 机器学习（machine learning）概述&quot;&gt;&lt;/a&gt;- 机器学习（machine learning）概述&lt;/h2&gt;&lt;p&gt;什么是机器学习？&lt;/p&gt;
+&lt;p&gt;机器学习的主要工作流程是什么？&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="机器学习" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="-机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
