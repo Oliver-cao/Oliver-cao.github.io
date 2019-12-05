@@ -49,6 +49,29 @@
   </entry>
   
   <entry>
+    <title>机器学习（machine learning）概述</title>
+    <link href="http://yoursite.com/2018/05/08/helloworld/"/>
+    <id>http://yoursite.com/2018/05/08/helloworld/</id>
+    <published>2018-05-08T10:22:29.000Z</published>
+    <updated>2018-05-08T12:25:17.091Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;什么是机器学习？&lt;/p&gt;
+&lt;p&gt;机器学习的主要工作流程是什么？&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="机器学习" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="机器学习概述" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/"/>
+    
+    
+      <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>重启</title>
     <link href="http://yoursite.com/2018/05/08/nihao/"/>
     <id>http://yoursite.com/2018/05/08/nihao/</id>
@@ -65,29 +88,6 @@
 
         
       
-    
-    </summary>
-    
-      <category term="机器学习" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="机器学习概述" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/"/>
-    
-    
-      <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>机器学习（machine learning）概述</title>
-    <link href="http://yoursite.com/2018/05/08/helloworld/"/>
-    <id>http://yoursite.com/2018/05/08/helloworld/</id>
-    <published>2018-05-08T10:22:29.000Z</published>
-    <updated>2018-05-08T12:25:17.091Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;什么是机器学习？&lt;/p&gt;
-&lt;p&gt;机器学习的主要工作流程是什么？&lt;/p&gt;
     
     </summary>
     

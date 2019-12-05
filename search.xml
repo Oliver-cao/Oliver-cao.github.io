@@ -26,29 +26,6 @@
     </entry>
     
     <entry>
-      <title>重启</title>
-      <link href="/2018/05/08/nihao/"/>
-      <url>/2018/05/08/nihao/</url>
-      <content type="html"><![CDATA[<p>你在干嘛？？</p>]]></content>
-      
-      <categories>
-          
-          <category> 机器学习 </category>
-          
-          <category> 机器学习概述 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 机器学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>机器学习（machine learning）概述</title>
       <link href="/2018/05/08/helloworld/"/>
       <url>/2018/05/08/helloworld/</url>
@@ -71,13 +48,36 @@
       
     </entry>
     
+    <entry>
+      <title>重启</title>
+      <link href="/2018/05/08/nihao/"/>
+      <url>/2018/05/08/nihao/</url>
+      <content type="html"><![CDATA[<p>你在干嘛？？</p>]]></content>
+      
+      <categories>
+          
+          <category> 机器学习 </category>
+          
+          <category> 机器学习概述 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机器学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
   
   
     
     <entry>
-      <title>heiehi</title>
-      <link href="/tags/index-1.html"/>
-      <url>/tags/index-1.html</url>
+      <title>categories</title>
+      <link href="/categories/index-1.html"/>
+      <url>/categories/index-1.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -89,6 +89,13 @@
     </entry>
     
     <entry>
+      <title>tags</title>
+      <link href="/tags/index-2.html"/>
+      <url>/tags/index-2.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -96,16 +103,9 @@
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index-1.html"/>
-      <url>/categories/index-1.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index-2.html"/>
-      <url>/tags/index-2.html</url>
+      <title>heiehi</title>
+      <link href="/tags/index-1.html"/>
+      <url>/tags/index-1.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     

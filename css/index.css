@@ -657,6 +657,7 @@ td {
 }
 .sidebar-ov-author__avatar_img {
   opacity: 1;
+  border-radius: 50%;
 }
 .sidebar-ov-author__avatar:hover .sidebar-ov-author__avatar_img {
   animation: avatar-turn 0.8s both ease-out;
