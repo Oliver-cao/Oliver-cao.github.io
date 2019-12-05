@@ -3,11 +3,25 @@
   
     
     <entry>
-      <title>hel</title>
-      <link href="/2019/12/05/hel/"/>
-      <url>/2019/12/05/hel/</url>
-      <content type="html"><![CDATA[]]></content>
+      <title>hello</title>
+      <link href="/2018/05/08/hel/"/>
+      <url>/2018/05/08/hel/</url>
+      <content type="html"><![CDATA[<p>擦发货都是滴个负担部分</p><p>撒娇的回复吧</p><p>sbdfahdvbfa</p><p>还是不带饭</p>]]></content>
       
+      <categories>
+          
+          <category> 机器学习 </category>
+          
+          <category> 机器学习概述 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机器学习 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -61,13 +75,6 @@
   
     
     <entry>
-      <title>heiehi</title>
-      <link href="/tags/index-1.html"/>
-      <url>/tags/index-1.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -78,6 +85,13 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>heiehi</title>
+      <link href="/tags/index-1.html"/>
+      <url>/tags/index-1.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     

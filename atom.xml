@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-05T09:48:35.230Z</updated>
+  <updated>2019-12-05T10:13:19.389Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hel</title>
-    <link href="http://yoursite.com/2019/12/05/hel/"/>
-    <id>http://yoursite.com/2019/12/05/hel/</id>
-    <published>2019-12-05T09:48:35.000Z</published>
-    <updated>2019-12-05T09:48:35.230Z</updated>
+    <title>hello</title>
+    <link href="http://yoursite.com/2018/05/08/hel/"/>
+    <id>http://yoursite.com/2018/05/08/hel/</id>
+    <published>2018-05-08T10:22:29.000Z</published>
+    <updated>2019-12-05T10:13:19.389Z</updated>
     
     <summary type="html">
     
+      
+      
+        
+        
+          &lt;p&gt;擦发货都是滴个负担部分&lt;/p&gt;
+&lt;p&gt;撒娇的回复吧&lt;/p&gt;
+&lt;p&gt;sbdfahdvbfa&lt;/p&gt;
+&lt;p&gt;还是不带饭&lt;/p&gt;
+
+        
+      
+    
     </summary>
     
+      <category term="机器学习" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="机器学习概述" scheme="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0/"/>
+    
+    
+      <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
