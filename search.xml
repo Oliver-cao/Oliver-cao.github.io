@@ -76,6 +76,13 @@
     
     <entry>
       <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>categories</title>
       <link href="/categories/index-1.html"/>
       <url>/categories/index-1.html</url>
       <content type="html"><![CDATA[]]></content>
@@ -92,13 +99,6 @@
       <title>tags</title>
       <link href="/tags/index-2.html"/>
       <url>/tags/index-2.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
